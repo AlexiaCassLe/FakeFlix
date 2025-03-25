@@ -18,7 +18,7 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 - Release_year: Año de lanzamiento
 - Rating: clasificación por edad (tenemos que unificar los criterios)
 - Duration: duracición de las películas en minutos y de las series por temporadas.
-- Géneros: clasíficación de las distintas películsa y series.
+- Géneros: clasíficación de las distintas películas y series.
 
 ![image](https://github.com/user-attachments/assets/f5f6a919-bb61-4670-89d2-189c8ca48436)
 
