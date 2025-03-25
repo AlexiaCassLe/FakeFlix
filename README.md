@@ -1,12 +1,12 @@
 # Proyecto-FakeFlix
 
-Resumen de la estructura del dataset:
+<h1>Resumen de la estructura del dataset:</h1>
 
 Nos encontramos con una base de datos que define series y películas, además de darnos información relevante de análisis como es directores, casting, país, fecha en la que se añadió al servicio, año de lanzamiento, rating, duración (temporadas y minutos respectivamente) y género.
 
 La gran mayoría de los datos son categóricos, siendo todos formateados como texto plano, se necesitará hacer ciertas correcciones, como en fechas y duración, para que sean numéricos y puedan ser más útil al análisis.
 
-La base de datos se comprende de los siguientes campos:
+<b>La base de datos se comprende de los siguientes campos</b>:
 
 1. Total registros: 8.702
 2. Columnas principales: 
@@ -18,7 +18,7 @@ La base de datos se comprende de los siguientes campos:
 - Release_year: Año de lanzamiento
 - Rating: clasificación por edad (tenemos que unificar los criterios)
 - Duration: duracición de las películas en minutos y de las series por temporadas.
-- Géneros: clasíficaciónd e las distintas películsa y series.
+- Géneros: clasíficación de las distintas películsa y series.
 
 Hallazgos clave:
 
@@ -28,6 +28,8 @@ Hallazgos clave:
 
 
 2. Principales Países de Origen (Top 10):
+- Actualizar ciertos nombres de de paises a la representación actual: West Germany, Soviet Union
+- Normalizar nombres de paises para que coincidan (corregir comas, espacios y mayusculas): Reino Unido, Estados Unidos y Polonia
 - Estados Unidos (3,168 registros, 36%).
 - India (1,007 registros).
 - Reino Unido (609 registros).
@@ -36,7 +38,7 @@ Hallazgos clave:
 
 
 
-3. Años de Lanzamiento: -
+3. Años de Lanzamiento:
 - Rango: 1925 - 2021.
 - Gran mayoría del contenido fue lanzado después de 2017.
 - Mayor concentración de títulos entre 2013 y 2021.
@@ -66,6 +68,8 @@ Actuaciones a hacer:
 - Correcion del formato de la duración y pasarlo a formato de número
 - Corección de fecha de lanzamiento para que se adecue a "año"
 - Normalizar los valores de los rating para una mejor comprensión y simplificación
+- Corregimos Soviet Union por Rusia
+- Corregimos West Germany por Germany.
 
   
 
