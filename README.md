@@ -20,6 +20,9 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 - Duration: duracición de las películas en minutos y de las series por temporadas.
 - Géneros: clasíficación de las distintas películsa y series.
 
+![image](https://github.com/user-attachments/assets/f5f6a919-bb61-4670-89d2-189c8ca48436)
+
+
 <h2>Hallazgos clave:</h2>
 
 <h3>1. Distribución del Tipo de Contenido:</h3>
@@ -30,11 +33,13 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 <h3>2. Principales Países de Origen (Top 10):</h3>
 - Actualizar ciertos nombres de de paises a la representación actual: West Germany, Soviet Union
 - Normalizar nombres de paises para que coincidan (corregir comas, espacios y mayusculas): Reino Unido, Estados Unidos y Polonia
-- Estados Unidos (3,168 registros, 36%).
-- India (1,007 registros).
-- Reino Unido (609 registros).
+- Estados Unidos (3,169)
+- India (1,006 registros).
+- Reino Unido (611 registros).
 - Otros países destacados: Canadá, Japón, Francia, Corea del Sur, España, México, Australia.
-- Valores nulos
+- Valores nulos (827 registros)
+
+![image](https://github.com/user-attachments/assets/ed933726-3939-459c-a645-c0614c394b36)
 
 
 
@@ -51,6 +56,10 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 - TV-14 (Adolescentes): 2,133 registros.
 - Otros relevantes: TV-PG, R, PG-13.
 - Datos atípicos: Algunos valores erróneos como "74 min", "84 min" que se han solapado de otras columnas.
+
+![image](https://github.com/user-attachments/assets/481221f7-f0ad-4682-86b1-046e80164755)
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmsBYxHWj-LlizbZVMtwX5rZ4i4BCNX_kO2KNbACnO2o5wIz4drKbDx7wnjkhTKT5kRdOx-XrtWsp7/pubchart?oid=331851997&amp;format=interactive"></iframe>
 
 <h3>5. Duración del Contenido (Muestra Aleatoria):</h3>
 - Mezcla de formatos: "1 Season", "2 Seasons" para series y "112 min", "95 min" para películas.
