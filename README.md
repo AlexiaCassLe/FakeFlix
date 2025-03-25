@@ -20,14 +20,14 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 - Duration: duracición de las películas en minutos y de las series por temporadas.
 - Géneros: clasíficación de las distintas películsa y series.
 
-Hallazgos clave:
+<h2>Hallazgos clave:</h2>
 
-1. Distribución del Tipo de Contenido: -
+<h3>1. Distribución del Tipo de Contenido:</h3>
 - Películas (Movies): 6,127 registros (aprox 70%).
 - Series (TV Shows): 2,577 registros (aprox 30%).
 
 
-2. Principales Países de Origen (Top 10):
+<h3>2. Principales Países de Origen (Top 10):</h3>
 - Actualizar ciertos nombres de de paises a la representación actual: West Germany, Soviet Union
 - Normalizar nombres de paises para que coincidan (corregir comas, espacios y mayusculas): Reino Unido, Estados Unidos y Polonia
 - Estados Unidos (3,168 registros, 36%).
@@ -38,31 +38,32 @@ Hallazgos clave:
 
 
 
-3. Años de Lanzamiento:
+<h3>3. Años de Lanzamiento:</h3>
 - Rango: 1925 - 2021.
 - Gran mayoría del contenido fue lanzado después de 2017.
 - Mayor concentración de títulos entre 2013 y 2021.
 - El formato actualmente no se encuentra como fecha.
 
 
-4. Rating:
+<h3>4. Rating:</h3>
 - Hay ratings que cumplen mismos criterios y pueden ser normalizados.
 - TV-MA (Contenido para adultos): 3,183 registros (mayoría).
 - TV-14 (Adolescentes): 2,133 registros.
 - Otros relevantes: TV-PG, R, PG-13.
 - Datos atípicos: Algunos valores erróneos como "74 min", "84 min" que se han solapado de otras columnas.
 
-5. Duración del Contenido (Muestra Aleatoria):
+<h3>5. Duración del Contenido (Muestra Aleatoria):</h3>
 - Mezcla de formatos: "1 Season", "2 Seasons" para series y "112 min", "95 min" para películas.
 - Es necesario separar la duración en minutos (películas) y temporadas (series) para un análisis detallado.
 - Se requiere formatear esta columna como número, actualmente se presenta como texto plano
 
 
-6. Géneros Más Frecuentes (Top 10):
+<h3>6. Géneros Más Frecuentes (Top 10)</h3>
 - Formato confuso de los distintos géneros,apilados todos en la misma columna
 - Hay géneros cuya única diferencia es el ser de serie o película.
 
-Actuaciones a hacer:
+<h2>Actuaciones a hacer:</h2>
+
 - Sustituir valores nulos con valores desconocidos para que no afecte al análisis
 - Separar y reformatear las columnas de directos y géneros para un mejor análisis.
 - Correcion del formato de la duración y pasarlo a formato de número
@@ -73,7 +74,7 @@ Actuaciones a hacer:
 
   
 
-
+<h2>Diario día 1</h2>
 
 Día 1
 
@@ -89,9 +90,14 @@ Día 1
 - Visualizamos la viabilidad de eliminar datos irrelevantes
 - Definimos actuaciones frente a celdas vacias
 
-Objetivos Día 2:
+<h3>Objetivos Día 2:</h3>
+
 - Finalizar Data Profiling
    - Definir formato de los ratings.
    - Dar valor a las celdas vacias
    - Continuar con la separación de géneros.
    - Ver relaciones.
+- Comenzar Data Cleaning
+  - Sustituir valores nulos
+  - Cambiar formatos
+  - Sustituir paises por países actuales
