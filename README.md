@@ -50,6 +50,8 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
     </li>
     <li>Valores nulos (827 registros)</li>
 </ul>
+<b>Gráfico de cantidad de países</b>
+<br></br>
 <img src="https://github.com/user-attachments/assets/ed933726-3939-459c-a645-c0614c394b36" alt="Imagen 2" />
 
 <h3>3. Años de Lanzamiento:</h3>
@@ -59,6 +61,8 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
     <li>Mayor concentración de títulos entre 2013 y 2021</li>
     <li>El formato actualmente no se encuentra como fecha</li>
 </ul>
+<b>Gráfico de año de lanzamiento</b>
+<br></br>
 <img src="https://github.com/user-attachments/assets/d8d07c7f-bb62-4be6-a6d9-95b0522d32bd" alt="Imagen 3" />
 
 <h3>4. Rating:</h3>
@@ -75,6 +79,8 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
     </li>
     <li>Datos atípicos: Algunos valores erróneos como "74 min", "84 min" que se han solapado de otras columnas</li>
 </ul>
+<b>Gráfico de ratings</b>
+<br></br>
 <img src="https://github.com/user-attachments/assets/fa5660bd-e8f0-46e4-a1e5-c12c2cff84a4" alt="Imagen 4" />
 
 <h3>5. Duración del Contenido:</h3>
@@ -87,9 +93,19 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
     </li>
     <li>Es necesario separar la duración en minutos (películas) y temporadas (series) para un análisis detallado</li>
     <li>Se requiere formatear esta columna como número, actualmente se presenta como texto plano</li>
+     <li>En el caso de las películas, encontramos ciertos valores extremos o "outliers" situados en torno a 309 minutos</li>
+    <li>En el caso de las series, encontramos ciertos valores extremos o "outliers" situados en 17 temporadas</li>
 </ul>
+<b> Gráficos películas Películas</b>
+<br></br>
 <img src="https://github.com/user-attachments/assets/ef08b3b4-bf0e-46ac-b4d9-ad699f87d02a" alt="Imagen 5" />
+![image](https://github.com/user-attachments/assets/3a019649-c9b0-4e77-9219-f0fd20b1e7d5)
+
+<b>Gráficos Series</b>
+<br></br>
 <img src="https://github.com/user-attachments/assets/8cd0cca9-862c-401d-bd92-5627bf2aa2d3" alt="Imagen 6" />
+![image](https://github.com/user-attachments/assets/7554b802-23ae-4089-9ce9-da92e52fbe1d)
+
 
 <h3>6. Géneros:</h3>
 <ul>
