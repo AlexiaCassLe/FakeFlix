@@ -9,7 +9,7 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 <b>La base de datos se comprende de los siguientes campos</b>:
 
 1. Total registros: 8.702
-2. Columnas principales: 
+2. Columnas principales: Statistical Analysis
 - Type: Tipo de contenido (Movie o TV Show)
 - Tittle: Título de la película o serie.
 - Director: Nombre del director (donde encontramos con 2543 valores vacíos
@@ -84,7 +84,7 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 <br></br>
 <img src="https://github.com/user-attachments/assets/fa5660bd-e8f0-46e4-a1e5-c12c2cff84a4" alt="Imagen 4" />
 
-<h3>5. Duración del Contenido:</h3>
+<h3>5. Duración del Contenido:</h3>Statistical Analysis
 <ul>
     <li>Mezcla de formatos:
         <ul>
@@ -161,4 +161,17 @@ Día 1
 - Asegurar validaciones y formatos
 - Ajustar directores
 - Analisis de datos
-  
+
+  <h3>Objetivos Día 4:</h3>
+  - Último Check a la transformación de datos
+  - Análisis estadístico (relacionar diferentes columnas/categorias)
+    - Relación año de producción y generos
+    - Tendencias de lanzamientos en el tiempo
+    - Duración de contenidos y retención
+    - Rango duración de peliculas
+    - Diversidad géneros y directores
+    - Patrones de adición de contenidos y estacionalidad
+    - Top 5: paises que más contenido producen
+        - y dentro de ese Top 5, sacar los contenidos que más producen cada país
+    - Top 5: generos mas producidos
+    - Top 5: años que más peliculas/series se han producido.
