@@ -14,7 +14,8 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 - Tittle: Título de la película o serie.
 - Director: Nombre del director (donde encontramos con 2543 valores vacíos
 - Cast: Reparto (encontramos 819 celdas vacías
-- Country: - : Fecha en la que se añadió a la plataforma
+- Country: País de origen del contenido
+- Fecha en la que se añadió a la plataforma
 - Release_year: Año de lanzamiento
 - Rating: clasificación por edad (tenemos que unificar los criterios)
 - Duration: duracición de las películas en minutos y de las series por temporadas.
@@ -153,3 +154,11 @@ Día 1
   - Sustituir valores nulos
   - Cambiar formatos
   - Sustituir paises por países actuales
+ 
+<h3>Objetivos Día 3:</h3>
+
+- Valorar Outliers
+- Asegurar validaciones y formatos
+- Ajustar directores
+- Analisis de datos
+  
