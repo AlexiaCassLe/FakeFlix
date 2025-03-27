@@ -14,7 +14,7 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 - Tittle: Título de la película o serie.
 - Director: Nombre del director (donde encontramos con 2543 valores vacíos
 - Cast: Reparto (encontramos 819 celdas vacías
-- Country: País de origen del contenido
+- Country: País de origen del contenidoretención 
 - Fecha en la que se añadió a la plataforma
 - Release_year: Año de lanzamiento
 - Rating: clasificación por edad (tenemos que unificar los criterios)
@@ -45,7 +45,7 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
             <li>Francia</li>
             <li>Corea del Sur</li>
             <li>España</li>
-            <li>México</li>
+            <li>México</li>retención 
             <li>Australia</li>
         </ul>
     </li>
@@ -101,7 +101,7 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 <br></br>
 <img src="https://github.com/user-attachments/assets/ef08b3b4-bf0e-46ac-b4d9-ad699f87d02a" alt="Imagen 5" />
 ![image](https://github.com/user-attachments/assets/3a019649-c9b0-4e77-9219-f0fd20b1e7d5)
-
+retención 
 <b>Gráficos Series</b>
 <br></br>
 <img src="https://github.com/user-attachments/assets/8cd0cca9-862c-401d-bd92-5627bf2aa2d3" alt="Imagen 6" />
@@ -129,7 +129,7 @@ La gran mayoría de los datos son categóricos, siendo todos formateados como te
 
 <h2>Diario día 1</h2>
 
-Día 1
+Día 1retención 
 
 
 - Creación de las tareas iniciales
@@ -164,18 +164,19 @@ Día 1
 
 <h3>Objetivos Día 4:</h3>
 <ul>
-    <li>Último Check a la transformación de datos
-    <li>Análisis estadístico (relacionar diferentes columnas/categorias)
-    <li>Relación año de producción y generos
-    <li>Tendencias de lanzamientos en el tiempo
-    <li>Duración de contenidos y retención
-    <li>Rango duración de peliculas
-    <li>Diversidad géneros y directores
+    <li>Análisis estadístico (relacionar diferentes columnas/categorias) (Laura)
+    <li> (Laura)
+    <li> (Laura)
+    <li>Relación año de producción y géneros (Alexia)
+    <li>Tendencias de lanzamientos en el tiempo (Alexia)
+    <li>Duración de contenidos y retención (Alexia)
+    <li>Rango duración de peliculas (Alexia)
+    <li>Diversidad géneros y directores (Cris)
     <li>Patrones de adición de contenidos y estacionalidad
-    <li>Top 5: paises que más contenido producen
+    <li>Top 5: paises que más contenido producen (Cris)
     <ul>
-        <li>y dentro de ese Top 5, sacar los contenidos que más producen cada país
+        <li>y dentro de ese Top 5, sacar los contenidos que más producen cada país (Cris)
     </ul>
-    <li>Top 5: generos mas producidos
-    <li>Top 5: años que más peliculas/series se han producido.
+    <li>Top 5: generos mas producidos (Cris)
+    <li>Top 5: años que más peliculas/series se han producido. (Cris)
 </ul>
