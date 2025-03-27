@@ -162,16 +162,20 @@ Día 1
 - Ajustar directores
 - Analisis de datos
 
-  <h3>Objetivos Día 4:</h3>
-  - Último Check a la transformación de datos
-  - Análisis estadístico (relacionar diferentes columnas/categorias)
-    - Relación año de producción y generos
-    - Tendencias de lanzamientos en el tiempo
-    - Duración de contenidos y retención
-    - Rango duración de peliculas
-    - Diversidad géneros y directores
-    - Patrones de adición de contenidos y estacionalidad
-    - Top 5: paises que más contenido producen
-        - y dentro de ese Top 5, sacar los contenidos que más producen cada país
-    - Top 5: generos mas producidos
-    - Top 5: años que más peliculas/series se han producido.
+<h3>Objetivos Día 4:</h3>
+<ul>
+    <li>Último Check a la transformación de datos
+    <li>Análisis estadístico (relacionar diferentes columnas/categorias)
+    <li>Relación año de producción y generos
+    <li>Tendencias de lanzamientos en el tiempo
+    <li>Duración de contenidos y retención
+    <li>Rango duración de peliculas
+    <li>Diversidad géneros y directores
+    <li>Patrones de adición de contenidos y estacionalidad
+    <li>Top 5: paises que más contenido producen
+    <ul>
+        <li>y dentro de ese Top 5, sacar los contenidos que más producen cada país
+    </ul>
+    <li>Top 5: generos mas producidos
+    <li>Top 5: años que más peliculas/series se han producido.
+</ul>
