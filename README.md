@@ -164,13 +164,11 @@ Día 1retención
 
 <h3>Objetivos Día 4:</h3>
 <ul>
-    <li>Análisis estadístico (relacionar diferentes columnas/categorias) (Laura)
-    <li> (Laura)
-    <li> (Laura)
-    <li>Relación año de producción y géneros (Alexia)
-    <li>Tendencias de lanzamientos en el tiempo (Alexia)
-    <li>Duración de contenidos y retención (Alexia)
-    <li>Rango duración de peliculas (Alexia)
+    <li>Análisis estadístico (relacionar diferentes columnas/categorias)
+    <li>Relación año de producción y géneros (Alexia - Movies) (Laura - TV Shows)
+    <li>Tendencias de lanzamientos en el tiempo (Alexia - Movies) (Laura - TV Shows)
+    <li>Duración de contenidos y retención (Alexia - Movies) (Laura - TV Shows)
+    <li>Rango duración de peliculas (Alexia - Movies) (Laura - TV Shows)
     <li>Diversidad géneros y directores (Cris)
     <li>Patrones de adición de contenidos y estacionalidad
     <li>Top 5: paises que más contenido producen (Cris)
