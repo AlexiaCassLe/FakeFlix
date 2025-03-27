@@ -170,7 +170,7 @@ Día 1retención
     <li>Duración de contenidos y retención (Alexia - Movies) (Laura - TV Shows)
     <li>Rango duración de peliculas (Alexia - Movies) (Laura - TV Shows)
     <li>Diversidad géneros y directores (Cris)
-    <li>Patrones de adición de contenidos y estacionalidad
+    <li>Patrones de adición de contenidos y estacionalidad (Alexia - Movies) (Laura - TV Shows)
     <li>Top 5: paises que más contenido producen (Cris)
     <ul>
         <li>y dentro de ese Top 5, sacar los contenidos que más producen cada país (Cris)
