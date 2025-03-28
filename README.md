@@ -178,3 +178,15 @@ Día 1retención
     <li>Top 5: generos mas producidos (Cris)
     <li>Top 5: años que más peliculas/series se han producido. (Cris)
 </ul>
+
+<h3>Objetivos Día 5:</h3>
+<ul>
+    <li>Terminar:
+        <ul>
+            <li>Patrón de adición de contenido y estacionalidad
+            <li>Analisis de los datos
+            <li>Documentación del analisis de los datos
+        </ul>
+    <li>Maquetar el dashboard
+    <li>Presentación
+</ul>
